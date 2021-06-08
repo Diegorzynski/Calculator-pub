@@ -1,0 +1,20 @@
+.calculator {
+    background-color: coral;
+    width: 20rem;
+    border: darkblue;
+    border-style: solid;
+    
+
+
+}
+#num1-el {
+    width: 20px;
+}
+#num2-el {
+    width: 20px;
+}
+
+.inputs {;
+margin: auto;
+
+}
